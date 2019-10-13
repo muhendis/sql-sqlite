@@ -68,7 +68,7 @@ db.close()
 pd....
 ```
 
-# Sqlite
+# SQLite
 
 ## Sqlite'a giriş
 1.Sqlite herhangi bir yazılım veya sunucu kurulumu gerektirmez.
