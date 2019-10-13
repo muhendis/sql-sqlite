@@ -4,9 +4,9 @@ SQL bir sorgulama dilidir. SQL ,   veritabanında bulunan tabloları seçmek ve 
 
 Sql ve pandas birlikte kullanılırsa işlemler çok hızlı şekilde gerçekleşir.
 
-Sql ile tabloları çekeriz.Pandas ile bu tabloları işleriz.
+Sql ile tabloları çekilir.Pandas ile bu tabloları işlenir.
 
-### Kütüphane çağırmak
+### Kütüphane çağrıldı
 
 ```python
 
@@ -15,7 +15,7 @@ import pandas as pd
 
 ```
 
-### Bağlantı kurmak
+### Bağlantı kuruldu
 
 ```python
 
@@ -23,7 +23,7 @@ db = sqlite3.connect("vt.sqlite")
 
 ```
 
-### sqlite_master ile veritabanı hakkında bilgi alırız. Burada bulunan tabloların isimleri alındı.
+### sqlite_master ile veritabanı hakkında bilgi alınır. Ve aşağıda veritabanında bulunan tabloların isimleri alındı.
 
 ```python
 
@@ -35,7 +35,7 @@ print(df_table_names)
 
 ```
 
-### df_table_names 'ın 0. indeksdeki tablo ismi alıp, o tabloyu okuma
+### df_table_names 'ın 0. indeksdeki tablo ismi alınıp, o tablo okundu
 
 ```python
 
@@ -45,7 +45,7 @@ df_content=pd.read_sql_query(content, db)
 
 ```
 
-### Veritabanına yeni tablo ekleme
+### Veritabanına yeni tablo eklendi
 
 ```python
 
@@ -56,15 +56,15 @@ new_df.to_sql("new table", db, if_exists="replace")#new table
 ```
 
 
-### Ve veritabanı kapatma
+### Ve veritabanı kapatıldı
 ```python
 
 db.close()
 
 ```
 
-###
+### Pandas ile de veri işlenir.
 ```python
-# Bu basamakta ise alınan veriler pandas ile ön işlemeden geçirilir.
+pd....
 ```
 
