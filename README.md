@@ -70,14 +70,14 @@ pd....
 
 # Sqlite
 
-## Giriş
+## Sqlite'a giriş
 1.Sqlite herhangi bir yazılım veya sunucu kurulumu gerektirmez.
 
 2.Sqlite, öteki pek çok veritabanı alternatifine göre basittir.
 
 3.Sqlite’ın sade ve basit olması sizi yanıltmasın. Bu özelliklerine bakarak, Sqlite’ın yeteneksiz bir veritabanı sistemi olduğunu düşünmeyin. Bugün Sqlite’ı aktif olarak kullanan pek çok büyük ve tanınmış şirket bulunur. Mesela, Adobe, Apple, Mozilla/Firefox, Google, Symbian ve Sun bu şirketlerden bazılarıdır.
 
-## Sqlite’ın Yapısı
+## Sqlite’ın yapısı
 
 Bütün ilişkisel veritabanlarında olduğu gibi, Sqlite da bu verileri tablo benzeri bir yapı içinde tutar. Ve bu tablolar birbirlerine idler kolonu ile bağlanır, ilişkisel olduğundan dolayı bu idlere topluca ulaşıp işi kolaylaştırır.
 
