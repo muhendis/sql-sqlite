@@ -1,6 +1,6 @@
 # SQL
 
-SQL bir sorgulama dilidr. SQL ,  sql veritabanında bulunan tabloları seçmek ve onlar üzerinde işlemler yapamaya yarar. 
+SQL bir sorgulama dilidir. SQL ,   veritabanında bulunan tabloları seçmek ve onlar üzerinde işlemler yapamaya yarar. 
 
 Sql ve pandas birlikte kullanılırsa işlemler çok hızlı şekilde gerçekleşir.
 
