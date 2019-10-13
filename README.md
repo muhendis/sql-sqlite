@@ -82,3 +82,5 @@ pd....
 Bütün ilişkisel veritabanlarında olduğu gibi, Sqlite da bu verileri tablo benzeri bir yapı içinde tutar. Ve bu tablolar birbirlerine idler kolonu ile bağlanır, ilişkisel olduğundan dolayı bu idlere topluca ulaşıp işi kolaylaştırır.
 
 **Ve Sqlitebrowser aracı ile de sqlite görüntülenmesi ve işlenmesi yapılabilir. **
+
+[Önerilen kaynak](https://pandas.pydata.org/pandas-docs/stable/getting_started/comparison/comparison_with_sql.html)
